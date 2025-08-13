@@ -63,6 +63,17 @@ Tools & Technologies Used
 7. Dataset Source – Public datasets from platforms like Kaggle or UCI ML Repository.
 
 8. Text Processing Tools – Such as CountVectorizer and TfidfVectorizer for converting text into numerical form.
+#OUTPUT:
+![Image](https://github.com/user-attachments/assets/ef1ebfa1-cdfa-4ed9-8298-c1a439940c7b)
+
+![Image](https://github.com/user-attachments/assets/b07ed80f-6f06-4615-8f25-1e08d86acd9c)
+
+![Image](https://github.com/user-attachments/assets/5d2bf7f8-f8bb-4bb2-906c-8d0c20c15f50)
+
+![Image](https://github.com/user-attachments/assets/542d11fa-23c8-45bf-89ac-aa6fd6639acc)
+
+
+   
 
 
 
